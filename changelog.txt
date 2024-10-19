@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.5
+Date: 2024-10-19
+  Changes:
+    - Added locomotive space tender.
+    - Change the initial colors of the space trains to gray.
+    - Module support has been added for Space Train Battery Charging Station.
+    - Added setting to add vanilla fuel to space trains.
+    - Added themed space train icons for minimap.
+    - Changed the sound of opening a train tab to the sound of opening a spidertron.
+    - Bug fixed https://github.com/Fragjacker/se-space-trains/issues/10
