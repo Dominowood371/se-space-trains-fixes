@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.6
-Date: 2024-10-21
+Date: 2024-11-06
   Changes:
     - Update the Mod to Factorio 2.0 code base.
     - Added compatibility with mod Space Age and Elevated Rails.
