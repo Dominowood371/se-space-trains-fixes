@@ -1,5 +1,13 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.0.5
+Version: 0.0.6
+Date: 2024-10-21
+  Changes:
+    - Update the Mod to Factorio 2.0 code base.
+    - Added compatibility with mod Space Age and Elevated Rails.
+    - Fixed preview of train models in factoriopedia.
+    - Fixed incorrect shadow position on Space Cargo Wagon.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.0
 Date: 2024-10-19
   Changes:
     - Added locomotive space tender.
@@ -9,3 +17,6 @@ Date: 2024-10-19
     - Added themed space train icons for minimap.
     - Changed the sound of opening a train tab to the sound of opening a spidertron.
     - Bug fixed https://github.com/Fragjacker/se-space-trains/issues/10
+    - Fixed incorrect shadow position on Space Cargo Wagon.
+    - Added support for mods Battery-Electric Train and Battery Powered.
+    - Added equipment grids to space trains in vanilla game.

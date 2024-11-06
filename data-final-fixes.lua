@@ -1,4 +1,3 @@
-
 local sefixwagons = {
   "space-cargo-wagon",
   "space-fluid-wagon"
@@ -34,15 +33,15 @@ for _, sefixprototype_type in pairs({
 end
 
 if mods["space-exploration"] then
-    table.insert(data.raw["technology"]["se-space-rail"].effects, {
-      type = "unlock-recipe",
-      recipe = "recipe-space-locomotive-wagon"
-    })
+  table.insert(data.raw["technology"]["se-space-rail"].effects, {
+    type = "unlock-recipe",
+    recipe = "space-locomotive-wagon"
+  })
 else
-  if mods["se-space-trains"] and not mods["space-exploration"] then
-    table.insert(data.raw.technology["tech-space-trains"].effects, {
-      type = "unlock-recipe",
-      recipe = "recipe-space-locomotive-wagon"
-    })
-  end
+if mods["se-space-trains"] and not mods["space-exploration"] then
+  table.insert(data.raw.technology["tech-space-trains"].effects, {
+    type = "unlock-recipe",
+    recipe = "space-locomotive-wagon"
+  })
+end
 end

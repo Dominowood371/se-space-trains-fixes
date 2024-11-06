@@ -1,16 +1,20 @@
 {
   "name": "se-space-trains-fixes",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "title": "SE Space Trains Fixes",
   "author": "Dominowood371",
   "contact": "https://github.com/Dominowood371",
   "homepage": "https://github.com/Dominowood371/se-space-trains-fixes",
-  "factorio_version": "1.1",
+  "factorio_version": "2.0",
   "description": "This mod tries to fix and tweak things mod SE Space Trains.",
   "dependencies": [
-    "base >= 1.1",
-    "se-space-trains >= 0.1.12",
-    "? angelsaddons-mobility >= 0.0.11",
-    "? Space_trains >= 1.3.6"
+    "base >= 2.0",
+    "se-space-trains >= 1.0.1",
+    "? space-age",
+    "? elevated-rails",
+    "? space-exploration",
+    "? Krastorio2",
+    "? battery-powered",
+    "? BatteryElectricTrain"
   ]
 }

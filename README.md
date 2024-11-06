@@ -1,13 +1,13 @@
-<img src="https://github.com/Dominowood371/se-space-trains-fixes/blob/main/thumbnail.png"  height="200px" />
+<img src="https://github.com/Dominowood371/se-space-trains-fixes/blob/main/thumbnail.png"  height="100px" />
 
 ## Mod name
 SE Space Trains Fixes
 
 ## Description
-This mod tries to fix and tweak things mod [SE Space Trains](https://github.com/Fragjacker/se-space-trains).
+This mod tries to fix and tweak things mod SE Space Trains.
 
 ## Download
-[![GitHub release](https://img.shields.io/github/downloads/Dominowood371/se-space-trains-fixes/se-space-trains-fixes_0.0.5.zip)](https://github.com/Dominowood371/se-space-trains-fixes/releases/download/0.0.5/se-space-trains-fixes_0.0.5.zip)
+![GitHub release](https://img.shields.io/github/downloads-pre/Dominowood371/se-space-trains-fixes/se-space-trains-fixes_3.7.1)
 
 ## Changes
     - Added locomotive space tender.
